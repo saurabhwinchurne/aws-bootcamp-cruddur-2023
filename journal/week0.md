@@ -136,3 +136,12 @@ aws budgets create-budget \
     --budget file://aws/json/budget.json \
     --notifications-with-subscribers file://aws/json/budget-notifications-with-subscribers.json
 ```
+
+# Architecture Diagram
+
+The image below is the architecture of the micro blogging app
+Requirements
+
+To view the chart please check the following link : https://lucid.app/lucidchart/aa9a12db-b91a-4865-97b9-462dbb12c765/edit?invitationId=inv_98f2c41f-f5da-4376-aa9b-8fc1033c7dbd
+
+![Architecture Diagram](../_docs/assets/cruddur-logical-diagram.png)
